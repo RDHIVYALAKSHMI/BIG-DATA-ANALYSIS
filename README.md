@@ -18,4 +18,10 @@ This task involves performing an in-depth analysis of a large dataset using powe
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1feb0294-f226-4915-800c-3883b6f403f7)
+![Image](https://github.com/user-attachments/assets/3760ab7f-6cf1-44ff-8419-5bd18179815e)
+![Image](https://github.com/user-attachments/assets/eb1cbc05-2935-4452-b7bf-dae1384cf4d2)
+![Image](https://github.com/user-attachments/assets/dd6b6bdd-70bd-40e0-adef-7fba9d0ec00e)
+![Image](https://github.com/user-attachments/assets/c54250d4-a0ec-4d61-94e5-0b8a4d4976ed)
+
 
